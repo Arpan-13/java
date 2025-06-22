@@ -1,4 +1,4 @@
-package firstprogram.com;
+package packagecom.java;
 
 public class Do_while_Loops {
     public static void main(String[] args) {
